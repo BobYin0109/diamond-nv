@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+build/
+dist/
+*.spec
+*.exe
+*.pdb
+/demo_output/
+/scan_output/
